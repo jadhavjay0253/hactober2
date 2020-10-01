@@ -1,6 +1,6 @@
 def Fibona(n1): 
     if n1<0: 
-        print("Incorrect input") 
+        print("Incorrect input, provide correct input!") 
     
     elif n1==1: 
         return 0
